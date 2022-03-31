@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/LarasKusumaPutri/Kalkulator.git
+	branch = master
